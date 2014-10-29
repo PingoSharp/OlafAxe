@@ -36,11 +36,7 @@ namespace OlafAxe
         private static void Drawing_OnDraw(EventArgs args)
         {
             if (_axeObj != null)
-            {
-                var screenCoord = Drawing.WorldToScreen(_axeObj.Position);
-                Drawing.DrawText(screenCoord.X, screenCoord.Y, Color.Yellow, "AXEEE");
-                Utility.DrawCircle(_axeObj.Position, 100, Color.Yellow, 10);
-            }
+                Utility.DrawCircle(_axeObj.Position, 100, Color.Yellow, 8);
         }
     }
 }
