@@ -23,13 +23,13 @@ namespace OlafAxe
 
         private static void GameObject_OnCreate(GameObject obj, EventArgs args)
         {
-            if (obj.Name.Equals("olaf_axe_totem_team_id_green.troy"))
+            if (obj.Name == "olaf_axe_totem_team_id_green.troy")
                 _axeObj = obj;
         }
 
         private static void GameObject_OnDelete(GameObject obj, EventArgs args)
         {
-            if (obj.Name.Equals("olaf_axe_totem_team_id_green.troy"))
+            if (obj.Name == "olaf_axe_totem_team_id_green.troy")
                 _axeObj = null;
         }
 
