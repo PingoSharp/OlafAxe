@@ -8,7 +8,6 @@ using LeagueSharp.Common;
 using SharpDX;
 using Color = System.Drawing.Color;
 
-
 namespace OlafAxe
 {
     class Program
@@ -39,7 +38,7 @@ namespace OlafAxe
             if (_axeObj != null)
             {
                 var screenCoord = Drawing.WorldToScreen(_axeObj.Position);
-                Drawing.DrawText(screenCoord.X, screenCoord.Y, Color.BlueViolet, "AXEEE");
+                Drawing.DrawText(screenCoord.X, screenCoord.Y, Color.Beige, "AXEEE");
             }
         }
     }
