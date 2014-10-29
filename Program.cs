@@ -39,6 +39,7 @@ namespace OlafAxe
             {
                 var screenCoord = Drawing.WorldToScreen(_axeObj.Position);
                 Drawing.DrawText(screenCoord.X, screenCoord.Y, Color.Yellow, "AXEEE");
+                Drawing.DrawCircle(_axeObj.Position, 50, Color.Yellow);
             }
         }
     }
