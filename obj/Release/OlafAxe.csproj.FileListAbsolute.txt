@@ -1,0 +1,11 @@
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\bin\Release\OlafAxe.exe.config
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\bin\Release\OlafAxe.exe
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\bin\Release\OlafAxe.pdb
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\bin\Release\LeagueSharp.Common.dll
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\bin\Release\LeagueSharp.dll
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\bin\Release\SharpDX.dll
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\bin\Release\SharpDX.Direct3D9.dll
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\bin\Release\LeagueSharp.xml
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\obj\Release\OlafAxe.csprojResolveAssemblyReference.cache
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\obj\Release\OlafAxe.exe
+c:\users\angelo\documents\visual studio 2013\Projects\OlafAxe\OlafAxe\obj\Release\OlafAxe.pdb
