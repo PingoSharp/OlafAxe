@@ -38,7 +38,7 @@ namespace OlafAxe
             if (_axeObj != null)
             {
                 var screenCoord = Drawing.WorldToScreen(_axeObj.Position);
-                Drawing.DrawText(screenCoord.X, screenCoord.Y, Color.Azure, "AXEEE");
+                Drawing.DrawText(screenCoord.X, screenCoord.Y, Color.OrangeRed, "AXEEE");
             }
         }
     }
