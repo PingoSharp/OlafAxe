@@ -36,7 +36,7 @@ namespace OlafAxe
         private static void Drawing_OnDraw(EventArgs args)
         {
             if (_axeObj != null)
-                Utility.DrawCircle(_axeObj.Position, 100, Color.Yellow, 6);
+                Utility.DrawCircle(_axeObj.Position, 100, Color.Yellow, 8);
         }
     }
 }
